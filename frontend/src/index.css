@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .page-container {
+    @apply flex min-h-screen w-screen flex-col bg-stone-100 pb-8 text-neutral-950 transition-all dark:bg-neutral-950 dark:text-stone-100 lg:ml-48 lg:w-[calc(100%-12rem)] lg:pb-3;
+  }
+}

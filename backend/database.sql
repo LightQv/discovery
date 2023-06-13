@@ -1,0 +1,17 @@
+CREATE TABLE mini_game (
+  id int(11) UNSIGNED PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  title varchar(255) NOT NULL
+  user_score int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE leaderboard (
+  id int(11) UNSIGNED PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  title varchar(255) NOT NULL
+  mini_game_id int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE user (
+  id int(11) UNSIGNED PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  name varchar(255) NOT NULL
+  email varchar(255) UNIQUE NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
