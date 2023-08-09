@@ -1,6 +1,6 @@
 ## Introduction
 
-To learn how oAuth works and how to implement such a feature in my future projects, I created a fully Responsive Web App using _Spotify Web API_.
+To learn how OAuth 2.0 works and how to implement such a feature in my future projects, I created a fully Responsive Web App using _Spotify Web API_.
 
 ## Concept
 
