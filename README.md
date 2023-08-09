@@ -67,5 +67,5 @@ _Search Page with Random suggestion while no search have been typed_
 ![Alt text](https://i.imgur.com/Z08pXfR.png "Search")
 
 
-_My Profile with Top Tracks and Artists_
+_My Profile with Top Tracks and Artists_  
 ![Alt text](https://i.imgur.com/9hDR2CD.png "Profile")
