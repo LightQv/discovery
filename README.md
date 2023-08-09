@@ -27,7 +27,7 @@ Create `.env` files in /frontend and /backend following `.env.sample` examples.
 - Express server will be accessible at the address set in the /frontend's .env
 - React client will be accessible at the address set in the /backend's .env
 
-- Create an account and then Log in to try Instagif.
+- Log in with your Spotify Account to try Discovery.
 
 ### Available Commands
 
