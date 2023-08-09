@@ -4,7 +4,7 @@ To learn how OAuth 2.0 works and how to implement such a feature in my future pr
 
 ## Concept
 
-You can Login with your Spotify's infos and listen directly in the website to your playlists. You can also access to your _Top Recent Songs_, _Top Artists_ and discover _new_ songs based on _random music gender_.
+You can Login with your Spotify's infos and listen directly in the website to your playlists or any song. You can also access to your _Top Recent Songs_, _Top Artists_ and discover _new_ songs based on _random music gender_.
 The website also includes a Dark Theme with _Light_, _Dark_ and _System_ option.
 Since Spotify provides more data for Premium users, I'll advice to log with a Premium Spotify's account to enjoy the full experience.
 
